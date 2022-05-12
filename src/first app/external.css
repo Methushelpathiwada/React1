@@ -1,0 +1,62 @@
+body
+{
+  
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0.657),rgb(23, 6, 87));
+}
+.heading
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:900;
+  text-align: center;
+  text-shadow: 5px 4px 4px rgb(12, 12, 12);
+  color:rgb(148, 177, 18);
+
+}
+.btn
+{
+  border: 2px groove goldenrod;
+  background-color: aquamarine;
+  width: 300px;
+  height: 50px;
+  border-radius: 20px;
+  margin-right: 50px;
+  text-transform: capitalize;
+  font-family:'Arial Narrow Bold', sans-serif;
+  font-weight: bolder;
+  box-shadow: 4px 4px 5px yellowgreen;
+  text-shadow: 3px 3px 3px gray;
+  margin-top: 30px;
+
+}
+.func
+{
+
+ margin-left: 24%;
+}
+.fcompo
+{
+  margin-top: 100px;
+  display:inline-block;
+  border: 4px groove red;
+  box-shadow: 6px 6px 5px rgb(133, 52, 52);
+  border-radius: 25px;
+  padding: 5px;
+  text-align: center;
+  background-color: rgb(187, 76, 76);
+  color: aqua;
+  width: 500px;
+  margin-left: 30px;
+  text-shadow: 4px 4px 4px black;
+
+}
+.sec
+{
+  font-size: 25px;
+  color: chartreuse;
+}
+.cCompo
+{
+  margin-right: 100px;
+  box-shadow: 4px 4px 5px rgb(175, 157, 157);
+  float: right;
+}
